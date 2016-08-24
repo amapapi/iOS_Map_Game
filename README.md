@@ -10,7 +10,7 @@ iOS_Map_Game
 
 ##效果图如下:
 
-* ![Screenshot](pictures/screenshot01.png "Case01")
+* ![Screenshot](pictures/screenshot01.PNG "Case01")
 
 
 ##使用方法：
